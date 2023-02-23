@@ -10,6 +10,7 @@ buildscript {
         gson_version = "2.8.6"
         facebook_version = "5.15.3"
         lottie_version = "3.5.0"
+        mockk_version = "1.13.4"
     }
 
     dependencies {
