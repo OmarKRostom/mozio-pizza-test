@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mozio Pizza</string>
+    <string name="choose_pizza_style">Choose pizza style</string>
+    <string name="single_pizza">Single Flavored Pizza</string>
+    <string name="half_and_half">Half &amp; Half</string>
+    <string name="choose_pizza_flavor">Choose Pizza Flavor</string>
+    <string name="choose_second_pizza_flavor">Choose second pizza flavor</string>
+    <string name="place_order">Place Order</string>
+    <string name="order_total">Order Total: %.2f</string>
+    <string name="order_placed_successfully">Order Placed Successfully</string>
+    <string name="make_another_order">Make Another Order</string>
+    <string name="orderSummary">Order Summary</string>
+</resources>
